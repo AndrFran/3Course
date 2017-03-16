@@ -1,0 +1,12 @@
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\bin\Release\MS_Lab1.exe.config
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\obj\Release\MS_Lab1.exe
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\obj\Release\MS_Lab1.pdb
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\bin\Release\MS_Lab1.exe
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\bin\Release\MS_Lab1.pdb
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\bin\Release\Tao.FreeGlut.dll
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\bin\Release\Tao.OpenGl.dll
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\bin\Release\Tao.Platform.Windows.dll
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\obj\Release\MS_Lab2.csprojResolveAssemblyReference.cache
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\obj\Release\MS_Lab1.Form1.resources
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\obj\Release\MS_Lab1.Properties.Resources.resources
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\obj\Release\MS_Lab2.csproj.GenerateResource.Cache

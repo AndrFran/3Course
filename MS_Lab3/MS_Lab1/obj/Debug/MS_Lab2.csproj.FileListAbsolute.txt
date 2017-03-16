@@ -1,0 +1,24 @@
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\bin\Debug\MS_Lab1.exe.config
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\bin\Debug\MS_Lab1.exe
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\bin\Debug\MS_Lab1.pdb
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\bin\Debug\Tao.OpenGl.dll
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\obj\Debug\MS_Lab1.Form1.resources
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\obj\Debug\MS_Lab1.Properties.Resources.resources
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\obj\Debug\MS_Lab2.csproj.GenerateResource.Cache
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\obj\Debug\MS_Lab1.exe
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\obj\Debug\MS_Lab1.pdb
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\obj\Debug\MS_Lab2.csprojResolveAssemblyReference.cache
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\bin\Debug\MS_Lab1.exe.config
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\obj\Debug\MS_Lab1.exe
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\obj\Debug\MS_Lab1.pdb
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\bin\Debug\MS_Lab1.exe
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\bin\Debug\MS_Lab1.pdb
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\bin\Debug\Tao.FreeGlut.dll
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\bin\Debug\Tao.OpenGl.dll
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\obj\Debug\MS_Lab2.csprojResolveAssemblyReference.cache
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\obj\Debug\MS_Lab1.Form1.resources
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\obj\Debug\MS_Lab1.Properties.Resources.resources
+C:\Users\corov\Downloads\Programuvannya_multimediynikh_sistem\Lab3\MS_Lab3\MS_Lab1\obj\Debug\MS_Lab2.csproj.GenerateResource.Cache

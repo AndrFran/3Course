@@ -1,0 +1,30 @@
+c:\users\dmytro\documents\visual studio 2015\Projects\MS_Lab1\MS_Lab1\bin\Debug\MS_Lab1.exe.config
+c:\users\dmytro\documents\visual studio 2015\Projects\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.Form1.resources
+c:\users\dmytro\documents\visual studio 2015\Projects\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.Properties.Resources.resources
+c:\users\dmytro\documents\visual studio 2015\Projects\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.csproj.GenerateResource.Cache
+c:\users\dmytro\documents\visual studio 2015\Projects\MS_Lab1\MS_Lab1\bin\Debug\MS_Lab1.exe
+c:\users\dmytro\documents\visual studio 2015\Projects\MS_Lab1\MS_Lab1\bin\Debug\MS_Lab1.pdb
+c:\users\dmytro\documents\visual studio 2015\Projects\MS_Lab1\MS_Lab1\bin\Debug\Tao.FreeGlut.dll
+c:\users\dmytro\documents\visual studio 2015\Projects\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.exe
+c:\users\dmytro\documents\visual studio 2015\Projects\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.pdb
+C:\Users\Dmytro\documents\visual studio 2015\Projects\MS_lab1\MS_Lab1\obj\Debug\MS_Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Dmytro\documents\visual studio 2015\Projects\MS_lab1\MS_Lab1\bin\Debug\Tao.OpenGl.dll
+C:\Users\Dmytro\documents\visual studio 2015\Projects\MS_lab1\MS_Lab1\bin\Debug\Tao.Platform.Windows.dll
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\bin\Debug\MS_Lab1.exe.config
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.exe
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.pdb
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\bin\Debug\MS_Lab1.exe
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\bin\Debug\MS_Lab1.pdb
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\bin\Debug\Tao.FreeGlut.dll
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\bin\Debug\Tao.OpenGl.dll
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\bin\Debug\Tao.Platform.Windows.dll
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\bin\Debug\Tao.FreeGlut.xml
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\bin\Debug\Tao.OpenGl.xml
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\bin\Debug\Tao.Platform.Windows.xml
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.csprojResolveAssemblyReference.cache
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.Form1.resources
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.Properties.Resources.resources
+E:\ \НУ ЛП\6 семестр\Програмування мультимедійних систем\Lab1\MS_Lab1\MS_Lab1\obj\Debug\MS_Lab1.csproj.GenerateResource.Cache
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\bin\Debug\MS_Lab1.exe.config
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\obj\Debug\MS_Lab1.exe
+C:\Users\Dmytro\Documents\Visual Studio 2015\Projects\MS_Lab2\MS_Lab1\obj\Debug\MS_Lab1.pdb
